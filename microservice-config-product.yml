@@ -48,7 +48,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.10.11:33306/springcloud_db01?serverTimezone=GMT%2B8 #数据库连接地址，
+    url: jdbc:mysql://192.168.10.11:33306/springcloud_db02?serverTimezone=GMT%2B8 #数据库连接地址，
     username: root
     password: 123456
     dbcp2:
